@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\MULY\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dbe2f38298c13bfd6d64c1a6649a6b3b84f820c0">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\MULY-lib-unspecified_9204d8bced15bc182be8c3859778081fb01fb142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0791b53ee02baa31864210b766441811e5853c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_819026a863f165a0d5377ea1812fa9ed6f320f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_d2b7d97c83b58310ac7835aaae17995d8ea0eeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c89764a3d25050035579bfbb063751a3877e3be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_130456f3edbbef8f255514c5db8252c9ef798283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_dda942fd6eb8b8df2d4c4bb4ff6d156fa7e795e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_81347e4b20b5acfbce9409f7d1fdba240331c57e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_99191825f55dd896b69375431709ba35f576c049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.cleveroad\audiovisualization\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3bfdddd4e47dab6e743f217d2ddde7e6cc5db0ee">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.cleveroad-audiovisualization-1.0.0_afac860793d1f16093e6ff9615da408cff858be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b79e72263f71c6808a7dc9cf19c24a32ece50733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_56fe54e9e5546f0b5a77254c65d34332a145ec27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_eb3bcbae677a572aaf34fff81e1c425f213ae050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.kailashdabhi\om-recorder\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc612fa2610b0741f55190e7bc73034144873adb">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.kailashdabhi-om-recorder-1.1.0_e6ee78072b36141ab45e958fd612ed32035a3dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eabba2820debe5246dc0d5618db9710bb11a70fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f61bceb59fdc1329f90cbe5d4877fe91b9d5586f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_3424e751143d57bcabddeb44d030c4a4631f2640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Asus\Desktop\MULY\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Asus\Desktop\MULY\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9bb9382d0dc50afb9514d017c1680390f5d49dee.jar" />
+    </item>
+
+</items>
