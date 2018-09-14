@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="cafe.adriel.androidaudiorecorder.example">
-
 
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -22,12 +20,9 @@
         </activity>
         <activity
             android:name=".StudentMActivity"
-            android:label="@string/title_activity_student_m"
-            android:theme="@style/AppTheme.NoActionBar"
             android:exported="true"
-            ></activity>
-
-
+            android:label="@string/title_activity_student_m"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
