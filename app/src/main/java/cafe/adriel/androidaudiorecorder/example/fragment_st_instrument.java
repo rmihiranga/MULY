@@ -7,6 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+
+//fragment for instruments in instrument class
 public class fragment_st_instrument extends Fragment {
 
     public fragment_st_instrument(){ }

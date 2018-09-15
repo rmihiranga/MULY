@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".stu_selectinsM">
+    tools:context=".studentSelectInstrumentsMain">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
@@ -28,6 +28,6 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_stu_selectins_m" />
+    <include layout="@layout/content_student_select_instrument_main" />
 
 </android.support.design.widget.CoordinatorLayout>
