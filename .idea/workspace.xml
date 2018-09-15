@@ -10,22 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98d4dc3c-cd60-447d-8067-080b99c08fd4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cafe/adriel/androidaudiorecorder/example/SectionsPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/cafe/adriel/androidaudiorecorder/example/SectionsPagerAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cafe/adriel/androidaudiorecorder/example/fragment_st_instrument.java" afterPath="$PROJECT_DIR$/app/src/main/java/cafe/adriel/androidaudiorecorder/example/fragment_st_instrument.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cafe/adriel/androidaudiorecorder/example/studentSelectInstrumentsMain.java" afterPath="$PROJECT_DIR$/app/src/main/java/cafe/adriel/androidaudiorecorder/example/studentSelectInstrumentsMain.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_student_select_instrument_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_student_select_instrument_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_student_select_instrument_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_student_select_instrument_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/select_teacher.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/select_teacher.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -3798,7 +3783,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536995037985</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/Chamith95/MULY-1&#10;&#10;# Conflicts:&#10;#&#9;.gradle/4.4/fileHashes/fileHashes.bin&#10;#&#9;.gradle/4.4/fileHashes/fileHashes.lock&#10;#&#9;.gradle/4.4/javaCompile/classAnalysis.bin&#10;#&#9;.gradle/4.4/javaCompile/javaCompile.lock&#10;#&#9;.gradle/4.4/javaCompile/taskHistory.bin&#10;#&#9;.gradle/4.4/taskHistory/taskHistory.bin&#10;#&#9;.gradle/4.4/taskHistory/taskHistory.lock&#10;#&#9;.gradle/buildOutputCleanup/buildOutputCleanup.lock&#10;#&#9;.idea/workspace.xml&#10;#&#9;app/src/main/res/layout/select_teacher.xml">
+      <created>1536995066824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536995066824</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
