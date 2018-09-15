@@ -23,6 +23,11 @@
             android:exported="true"
             android:label="@string/title_activity_student_m"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".stu_selectinsM"
+            android:label="@string/title_activity_stu_selectins_m"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
