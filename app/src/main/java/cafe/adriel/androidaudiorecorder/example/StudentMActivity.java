@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ImageView;
 
 public class StudentMActivity extends AppCompatActivity {
 
@@ -35,6 +36,8 @@ public class StudentMActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+
+
         mSectionsPagerAdapter =new SectionsPagerAdapter(getSupportFragmentManager());
 
         mViewPager=(ViewPager) findViewById(R.id.container);
@@ -42,6 +45,9 @@ public class StudentMActivity extends AppCompatActivity {
 
         TabLayout tabLayout= (TabLayout)findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
+
+        ImageView imageView=(ImageView)findViewById(R.id.teacherimage);
+
 
     }
 
