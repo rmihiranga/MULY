@@ -36,8 +36,6 @@ public class StudentMActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
-
         mSectionsPagerAdapter =new SectionsPagerAdapter(getSupportFragmentManager());
 
         mViewPager=(ViewPager) findViewById(R.id.container);
@@ -45,8 +43,6 @@ public class StudentMActivity extends AppCompatActivity {
 
         TabLayout tabLayout= (TabLayout)findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
-
-        ImageView imageView=(ImageView)findViewById(R.id.teacherimage);
 
 
     }

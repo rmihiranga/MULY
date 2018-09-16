@@ -7,14 +7,13 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 
-import android.content.Intent;
 import java.util.ArrayList;
 
 
 public class studentSelectInstrumentsMain extends AppCompatActivity {
     private ArrayList<stu_selectinstrument_item> mInsList;
     private RecyclerView mRecyclerView;
-    private RecyclerViewAdapter mAdapter;
+    private RecyclerViewAdapterSt_insSelect mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
 
 
@@ -36,7 +35,7 @@ public class studentSelectInstrumentsMain extends AppCompatActivity {
         mRecyclerView = (RecyclerView) findViewById(R.id.stu_ins_recyclerview);//Had to be casted?
         mRecyclerView.setHasFixedSize(true);
         mLayoutManager = new LinearLayoutManager(this);
-        mAdapter = new RecyclerViewAdapter(mInsList);
+        mAdapter = new RecyclerViewAdapterSt_insSelect(mInsList);
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setAdapter(mAdapter);
     }
@@ -44,18 +43,18 @@ public class studentSelectInstrumentsMain extends AppCompatActivity {
     public void createInslist() {
         //Adding items to instrument RecycleView
         mInsList = new ArrayList<>();
-        mInsList.add(new stu_selectinstrument_item(R.drawable.piano_2, "Piano"));
+        mInsList.add(new stu_selectinstrument_item(R.drawable.pianokeys, "Piano"));
     }
 
     public void buildRecyclerView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.stu_ins_recyclerview);//Had to be casted?
         mRecyclerView.setHasFixedSize(true);
         mLayoutManager = new LinearLayoutManager(this);
-        mAdapter = new RecyclerViewAdapter(mInsList);
+        mAdapter = new RecyclerViewAdapterSt_insSelect(mInsList);
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setAdapter(mAdapter);
 
-        mAdapter.setOnItemClickListner(new RecyclerViewAdapter.OnItemClickListner() {
+        mAdapter.setOnItemClickListner(new RecyclerViewAdapterSt_insSelect.OnItemClickListner() {
             @Override
             public void onItemclick(int position) {
 
