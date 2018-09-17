@@ -121,6 +121,7 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-annotations:24.2.1@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable-24.2.1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-utils-24.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: de.hdodenhof:circleimageview-2.2.0" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-ui-24.2.1" level="project" />
     <orderEntry type="library" name="Gradle: com.kailashdabhi:om-recorder-1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-v4-24.2.1" level="project" />

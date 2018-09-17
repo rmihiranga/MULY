@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ImageView;
 
 public class StudentMActivity extends AppCompatActivity {
 
@@ -42,6 +43,7 @@ public class StudentMActivity extends AppCompatActivity {
 
         TabLayout tabLayout= (TabLayout)findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
+
 
     }
 
