@@ -81,4 +81,5 @@
 
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="tab1_teacher">tab1 Teacher</string>
+    <string name="title_activity_stu_selectins_m">stu_selectinsM</string>
 </resources>
