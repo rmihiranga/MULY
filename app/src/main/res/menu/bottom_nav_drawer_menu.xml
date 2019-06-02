@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navdraw"
+    >
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav1"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="Messages" />
+        <item
+            android:id="@+id/nav2"
+            android:icon="@drawable/ic_music_note_black_24dp"
+            android:title="Instruments" />
+
+
+        <item
+            android:id="@+id/nav3"
+            android:icon="@drawable/ic_place_black_24dp"
+            android:title="Location" />
+
+        <item
+            android:id="@+id/nav4"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="Groups" />
+
+
+    </group>
+</menu>

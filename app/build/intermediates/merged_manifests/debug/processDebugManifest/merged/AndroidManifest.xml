@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cafe.adriel.androidaudiorecorder.example"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <service
+            android:name="com.amazonaws.mobileconnectors.s3.transferutility.TransferService"
+            android:enabled="true" />
+
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.MainActivity"
+            android:exported="true"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.studentSelectInstrumentsMain" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.StudentMActivity"
+            android:exported="true"
+            android:label="@string/title_activity_student_m"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.studentSelectInstrumentsMain"
+            android:exported="true"
+            android:label="@string/title_activity_stu_selectins_m"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.StudentMActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.edit_profile"
+            android:exported="true"
+            android:label="@string/title_activity_edit_profile"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.StudentMActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.login"
+            android:exported="true"
+            android:label="MuLy"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.welcome"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.TeacherMain"
+            android:exported="true"
+            android:label="@string/title_activity_teacher_main"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.signup"
+            android:exported="true"
+            android:label="@string/title_activity_signup"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.teachercardtest"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.conform"
+            android:label="Confirmation" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.welcome"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.TeacherSearch"
+            android:exported="true"
+            android:label="search"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.StudentMActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.StudentProfile"
+            android:exported="true"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.TeacherMain" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.example.TeacherProfile"
+            android:exported="true"
+            android:parentActivityName="cafe.adriel.androidaudiorecorder.example.StudentMActivity" />
+        <activity
+            android:name="cafe.adriel.androidaudiorecorder.AudioRecorderActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="cafe.adriel.androidaudiorecorder.example.com.squareup.picasso"
+            android:exported="false" />
+
+        <activity
+            android:name="com.amazonaws.mobile.auth.userpools.ForceChangePasswordActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_force_change_password"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_forgot_password"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amazonaws.mobile.auth.userpools.SignUpActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_sign_up"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amazonaws.mobile.auth.userpools.MFAActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_mfa"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_sign_up_confirm"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

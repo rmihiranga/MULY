@@ -1,0 +1,51 @@
+{
+  "UserAgent": "MobileHub/1.0",
+  "Version": "1.0",
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "us-east-1:86cb53a6-d61c-48ed-ba30-1312e9b7e002",
+        "Region": "us-east-1"
+      }
+    }
+  },
+  "IdentityManager": {
+    "Default": {}
+  },
+  "CognitoUserPool": {
+    "Default": {
+      "PoolId": "us-east-1_4gptlckh5",
+      "AppClientId": "3a39r6ll6igrbu3u39tj6i7esf",
+      "AppClientSecret": "15o23knld2lh1bu3o103t1p2jaeo7ucnqfuotdrap2o95nf2kb2t",
+      "Region": "us-east-1"
+    }
+  },
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "mulyv-userfiles-mobilehub-241976042",
+      "Region": "us-east-1"
+    }
+  },
+  "DynamoDBObjectMapper": {
+    "Default": {
+      "Region": "us-east-1"
+    }
+  },
+  "PinpointAnalytics": {
+    "Default": {
+      "AppId": "5d78c4c729ba4fcf97c85eb293f9b81e",
+      "Region": "us-east-1"
+    }
+  },
+  "PinpointTargeting": {
+    "Default": {
+      "Region": "us-east-1"
+    }
+  },
+  "UserFileManager": {
+    "Default": {
+      "Bucket": "mulyv-userfiles-mobilehub-241976042",
+      "Region": "us-east-1"
+    }
+  }
+}

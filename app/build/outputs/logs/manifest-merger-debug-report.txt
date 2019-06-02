@@ -1,0 +1,505 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.timigod:android-chat-ui:v0.1.4] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-chat-ui-v0.1.4.aar\898e3638e4cebea33a4d63a69d49156d\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\ccf3f0575f02176ec3da4244e96f1009\AndroidManifest.xml:17:1-22:12
+MERGED from [com.hbb20:ccp:2.2.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-ccp-2.2.3.aar\dc13aa27ef0dab9910e2cc48fa80b2e4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.levitnudi:LegacyTableView:master-SNAPSHOT] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\LegacyTableView-master-SNAPSHOT.aar\cc2918f2fa85506e9c62af844a5bdd93\AndroidManifest.xml:2:1-17:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-audiovisualization-1.0.0.aar\ab9ce8137fdfab27934efd7874cf735b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\06e3208b9a30bfa104494d1facb97f46\AndroidManifest.xml:2:1-13:12
+MERGED from [pl.tajchert:waitingdots:0.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\waitingdots-0.2.0.aar\cf9078985fe92895eb9a336c82b9439a\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\f6ebf8111a8bf0e3b7d8a16a396eaf44\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\24085c04792c9f58c48dec0c5cb8da28\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\38fb3638d496b3208db8318817e7adff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\460bd4226211415a9ebd639b52c46a46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\25eff5afd40acca5a11b90cbe9ea5d5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d9ff9772519ce975e54952bb5c29c729\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\661d5306ccd76398dadad59fbdbd11ad\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-butterknife-8.5.1.aar\664d65319940f5495061b498e78a5f6c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.hedzr:android-file-chooser:v1.1.10] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-file-chooser-v1.1.10.aar\24c0f4ce1d737bbda8316621ec4c93e1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\1ba12808294b2d503c40fdafd9e4e5b1\AndroidManifest.xml:2:1-20:12
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\8a3a0d0796c11d1ce5e8a9b24368bacf\AndroidManifest.xml:2:1-14:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-mobile-client-2.9.2.aar\bcae7e66562acd1f7f5c4e56cb015fde\AndroidManifest.xml:2:1-9:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:2:1-17:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.9.2.aar\f62121d1fe7114949872f4cd319dd094\AndroidManifest.xml:2:1-4:80
+MERGED from [androidx.exifinterface:exifinterface:1.0.0-rc01] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0-rc01.aar\f22604a8d20d7df7006673ecfe9797f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\dfcb96e5c7fea69d4d116ff9aeed3f41\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\26c90c91f45321e36d8f3a6c8b1c77f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\dbb0a8395fdd5aac31e2bd2ae217d7c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4eef8dd562d19bd8acd80b277e2115c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5bf3e9a7b856477e0a3e0e53ddceea24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\2d5a1d140c5d271e452ea7d0d1d096c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0ef591705b063dc8bbf4e2f0f341900d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\703448b551b0f2ac6a113505a1d806a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\5f63a934dd45ef1b00efe9b89d01d405\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e8c73510fcb32791d924fa88ba519d59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\9d6f80bee76ca5478fe6e0e8a8d68553\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\60e5426c7a73552e62eeca112a636021\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d09ff0287d9f59a766db402379f4217f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c0416babd5ccddc59bbd8e2864d36126\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\6ebcf42ade2c959f6b243f66771ad715\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\0351fc531689f753f0ed4efd30d599d8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7228d5394023cc102693ed0976a44aac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6e918b9b1b07f2841dfb74f64f76f9f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\78067fae7f7035098074e6a3f63c1084\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\383ef9e8a89b6c01437b291ad9debfaf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\4a5220fcc1e85859ba02e23b48e973b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9f80920e2a4dc2e94266d9505d6235fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\24051903e9baa036b7770d45241d5bcf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0cdf8a76e59d1a91bfad4f71b32aec1a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\0002ce754249f5cbed007845c806cb03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\598787a8f4c0f456a780071141f57a81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:2:1-19:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\libphonenumber-android-8.9.14.aar\cc4e6c2b1f4596899be179d6fe547bfd\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:4:5-55
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:6:5-71
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:9:5-71
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:10:5-81
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:11:5-80
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\8a3a0d0796c11d1ce5e8a9b24368bacf\AndroidManifest.xml:11:5-67
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\8a3a0d0796c11d1ce5e8a9b24368bacf\AndroidManifest.xml:11:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-mobile-client-2.9.2.aar\bcae7e66562acd1f7f5c4e56cb015fde\AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-mobile-client-2.9.2.aar\bcae7e66562acd1f7f5c4e56cb015fde\AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\8a3a0d0796c11d1ce5e8a9b24368bacf\AndroidManifest.xml:12:5-79
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\8a3a0d0796c11d1ce5e8a9b24368bacf\AndroidManifest.xml:12:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-mobile-client-2.9.2.aar\bcae7e66562acd1f7f5c4e56cb015fde\AndroidManifest.xml:7:5-78
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-mobile-client-2.9.2.aar\bcae7e66562acd1f7f5c4e56cb015fde\AndroidManifest.xml:7:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:14:5-96:19
+MERGED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-16:19
+MERGED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.timigod:android-chat-ui:v0.1.4] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-chat-ui-v0.1.4.aar\898e3638e4cebea33a4d63a69d49156d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.timigod:android-chat-ui:v0.1.4] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-chat-ui-v0.1.4.aar\898e3638e4cebea33a4d63a69d49156d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.hbb20:ccp:2.2.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-ccp-2.2.3.aar\dc13aa27ef0dab9910e2cc48fa80b2e4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.hbb20:ccp:2.2.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-ccp-2.2.3.aar\dc13aa27ef0dab9910e2cc48fa80b2e4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.levitnudi:LegacyTableView:master-SNAPSHOT] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\LegacyTableView-master-SNAPSHOT.aar\cc2918f2fa85506e9c62af844a5bdd93\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.levitnudi:LegacyTableView:master-SNAPSHOT] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\LegacyTableView-master-SNAPSHOT.aar\cc2918f2fa85506e9c62af844a5bdd93\AndroidManifest.xml:11:5-15:19
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\06e3208b9a30bfa104494d1facb97f46\AndroidManifest.xml:11:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\06e3208b9a30bfa104494d1facb97f46\AndroidManifest.xml:11:5-20
+MERGED from [pl.tajchert:waitingdots:0.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\waitingdots-0.2.0.aar\cf9078985fe92895eb9a336c82b9439a\AndroidManifest.xml:11:5-12:19
+MERGED from [pl.tajchert:waitingdots:0.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\waitingdots-0.2.0.aar\cf9078985fe92895eb9a336c82b9439a\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\f6ebf8111a8bf0e3b7d8a16a396eaf44\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\f6ebf8111a8bf0e3b7d8a16a396eaf44\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\24085c04792c9f58c48dec0c5cb8da28\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\24085c04792c9f58c48dec0c5cb8da28\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\661d5306ccd76398dadad59fbdbd11ad\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\661d5306ccd76398dadad59fbdbd11ad\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.hedzr:android-file-chooser:v1.1.10] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-file-chooser-v1.1.10.aar\24c0f4ce1d737bbda8316621ec4c93e1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.hedzr:android-file-chooser:v1.1.10] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-file-chooser-v1.1.10.aar\24c0f4ce1d737bbda8316621ec4c93e1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:8:6-16:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:8:6-16:20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\6ebcf42ade2c959f6b243f66771ad715\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\6ebcf42ade2c959f6b243f66771ad715\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\0351fc531689f753f0ed4efd30d599d8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\0351fc531689f753f0ed4efd30d599d8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:13:5-17:19
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:13:5-17:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\6ebcf42ade2c959f6b243f66771ad715\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.github.timigod:android-chat-ui:v0.1.4] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-chat-ui-v0.1.4.aar\898e3638e4cebea33a4d63a69d49156d\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:18:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:16:9-43
+	tools:ignore
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:20:9-48
+	android:icon
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:19:9-40
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:21:9-23:38
+	android:enabled
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:22:13-93
+activity#cafe.adriel.androidaudiorecorder.example.MainActivity
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:25:9-28:74
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:28:13-71
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:26:13-41
+activity#cafe.adriel.androidaudiorecorder.example.StudentMActivity
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:29:9-34:59
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:33:13-48
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:32:13-61
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:30:13-45
+activity#cafe.adriel.androidaudiorecorder.example.studentSelectInstrumentsMain
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:35:9-40:59
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:39:13-59
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:38:13-67
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:36:13-57
+activity#cafe.adriel.androidaudiorecorder.example.edit_profile
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:41:9-46:59
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:45:13-59
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:44:13-64
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:43:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:42:13-41
+activity#cafe.adriel.androidaudiorecorder.example.login
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:47:9-52:47
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:51:13-50
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:50:13-33
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:49:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:48:13-34
+activity#cafe.adriel.androidaudiorecorder.example.TeacherMain
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:53:9-58:59
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:57:13-48
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:56:13-64
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:55:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:54:13-40
+activity#cafe.adriel.androidaudiorecorder.example.signup
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:59:9-64:59
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:63:13-48
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:62:13-58
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:61:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:60:13-35
+activity#cafe.adriel.androidaudiorecorder.example.teachercardtest
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:65:9-68:59
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:67:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:66:13-44
+activity#cafe.adriel.androidaudiorecorder.example.conform
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:69:9-71:44
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:71:13-41
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:70:13-36
+activity#cafe.adriel.androidaudiorecorder.example.welcome
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:72:9-81:20
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:74:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:73:13-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:76:13-80:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:77:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:79:27-74
+activity#cafe.adriel.androidaudiorecorder.example.TeacherSearch
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:82:9-87:47
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:86:13-59
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:85:13-35
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:84:13-36
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:83:13-42
+activity#cafe.adriel.androidaudiorecorder.example.StudentProfile
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:88:9-91:57
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:91:13-54
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:90:13-36
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:89:13-43
+activity#cafe.adriel.androidaudiorecorder.example.TeacherProfile
+ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:92:9-95:71
+	android:parentActivityName
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:95:13-59
+	android:exported
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:94:13-36
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml:93:13-43
+uses-sdk
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+MERGED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.timigod:android-chat-ui:v0.1.4] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-chat-ui-v0.1.4.aar\898e3638e4cebea33a4d63a69d49156d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.timigod:android-chat-ui:v0.1.4] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-chat-ui-v0.1.4.aar\898e3638e4cebea33a4d63a69d49156d\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\ccf3f0575f02176ec3da4244e96f1009\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\ccf3f0575f02176ec3da4244e96f1009\AndroidManifest.xml:20:5-44
+MERGED from [com.hbb20:ccp:2.2.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-ccp-2.2.3.aar\dc13aa27ef0dab9910e2cc48fa80b2e4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:2.2.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-ccp-2.2.3.aar\dc13aa27ef0dab9910e2cc48fa80b2e4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.levitnudi:LegacyTableView:master-SNAPSHOT] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\LegacyTableView-master-SNAPSHOT.aar\cc2918f2fa85506e9c62af844a5bdd93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.levitnudi:LegacyTableView:master-SNAPSHOT] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\LegacyTableView-master-SNAPSHOT.aar\cc2918f2fa85506e9c62af844a5bdd93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-audiovisualization-1.0.0.aar\ab9ce8137fdfab27934efd7874cf735b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-audiovisualization-1.0.0.aar\ab9ce8137fdfab27934efd7874cf735b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\06e3208b9a30bfa104494d1facb97f46\AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\06e3208b9a30bfa104494d1facb97f46\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.tajchert:waitingdots:0.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\waitingdots-0.2.0.aar\cf9078985fe92895eb9a336c82b9439a\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.tajchert:waitingdots:0.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\waitingdots-0.2.0.aar\cf9078985fe92895eb9a336c82b9439a\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\f6ebf8111a8bf0e3b7d8a16a396eaf44\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\f6ebf8111a8bf0e3b7d8a16a396eaf44\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\24085c04792c9f58c48dec0c5cb8da28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\24085c04792c9f58c48dec0c5cb8da28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\38fb3638d496b3208db8318817e7adff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\38fb3638d496b3208db8318817e7adff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\460bd4226211415a9ebd639b52c46a46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\460bd4226211415a9ebd639b52c46a46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\25eff5afd40acca5a11b90cbe9ea5d5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\25eff5afd40acca5a11b90cbe9ea5d5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d9ff9772519ce975e54952bb5c29c729\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d9ff9772519ce975e54952bb5c29c729\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\661d5306ccd76398dadad59fbdbd11ad\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\661d5306ccd76398dadad59fbdbd11ad\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-butterknife-8.5.1.aar\664d65319940f5495061b498e78a5f6c\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-butterknife-8.5.1.aar\664d65319940f5495061b498e78a5f6c\AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:5:5-44
+MERGED from [com.github.hedzr:android-file-chooser:v1.1.10] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-file-chooser-v1.1.10.aar\24c0f4ce1d737bbda8316621ec4c93e1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hedzr:android-file-chooser:v1.1.10] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-android-file-chooser-v1.1.10.aar\24c0f4ce1d737bbda8316621ec4c93e1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\1ba12808294b2d503c40fdafd9e4e5b1\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\1ba12808294b2d503c40fdafd9e4e5b1\AndroidManifest.xml:16:5-18:41
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\8a3a0d0796c11d1ce5e8a9b24368bacf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amazonaws:aws-android-sdk-appsync:2.6.28] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-appsync-2.6.28.aar\8a3a0d0796c11d1ce5e8a9b24368bacf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-mobile-client-2.9.2.aar\bcae7e66562acd1f7f5c4e56cb015fde\AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-mobile-client-2.9.2.aar\bcae7e66562acd1f7f5c4e56cb015fde\AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:17:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:17:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.9.2.aar\f62121d1fe7114949872f4cd319dd094\AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.9.2.aar\f62121d1fe7114949872f4cd319dd094\AndroidManifest.xml:4:1-69
+MERGED from [androidx.exifinterface:exifinterface:1.0.0-rc01] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0-rc01.aar\f22604a8d20d7df7006673ecfe9797f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0-rc01] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0-rc01.aar\f22604a8d20d7df7006673ecfe9797f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\dfcb96e5c7fea69d4d116ff9aeed3f41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\dfcb96e5c7fea69d4d116ff9aeed3f41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\26c90c91f45321e36d8f3a6c8b1c77f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\26c90c91f45321e36d8f3a6c8b1c77f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\dbb0a8395fdd5aac31e2bd2ae217d7c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\dbb0a8395fdd5aac31e2bd2ae217d7c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4eef8dd562d19bd8acd80b277e2115c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4eef8dd562d19bd8acd80b277e2115c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5bf3e9a7b856477e0a3e0e53ddceea24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5bf3e9a7b856477e0a3e0e53ddceea24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\2d5a1d140c5d271e452ea7d0d1d096c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\2d5a1d140c5d271e452ea7d0d1d096c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0ef591705b063dc8bbf4e2f0f341900d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0ef591705b063dc8bbf4e2f0f341900d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\703448b551b0f2ac6a113505a1d806a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\703448b551b0f2ac6a113505a1d806a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\5f63a934dd45ef1b00efe9b89d01d405\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\5f63a934dd45ef1b00efe9b89d01d405\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e8c73510fcb32791d924fa88ba519d59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e8c73510fcb32791d924fa88ba519d59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\9d6f80bee76ca5478fe6e0e8a8d68553\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\9d6f80bee76ca5478fe6e0e8a8d68553\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\60e5426c7a73552e62eeca112a636021\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\60e5426c7a73552e62eeca112a636021\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d09ff0287d9f59a766db402379f4217f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d09ff0287d9f59a766db402379f4217f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c0416babd5ccddc59bbd8e2864d36126\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c0416babd5ccddc59bbd8e2864d36126\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\6ebcf42ade2c959f6b243f66771ad715\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\6ebcf42ade2c959f6b243f66771ad715\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\0351fc531689f753f0ed4efd30d599d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\0351fc531689f753f0ed4efd30d599d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7228d5394023cc102693ed0976a44aac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7228d5394023cc102693ed0976a44aac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6e918b9b1b07f2841dfb74f64f76f9f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6e918b9b1b07f2841dfb74f64f76f9f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\78067fae7f7035098074e6a3f63c1084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\78067fae7f7035098074e6a3f63c1084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\383ef9e8a89b6c01437b291ad9debfaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\383ef9e8a89b6c01437b291ad9debfaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\4a5220fcc1e85859ba02e23b48e973b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\4a5220fcc1e85859ba02e23b48e973b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9f80920e2a4dc2e94266d9505d6235fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9f80920e2a4dc2e94266d9505d6235fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\24051903e9baa036b7770d45241d5bcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\24051903e9baa036b7770d45241d5bcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0cdf8a76e59d1a91bfad4f71b32aec1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\0cdf8a76e59d1a91bfad4f71b32aec1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\0002ce754249f5cbed007845c806cb03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\0002ce754249f5cbed007845c806cb03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\598787a8f4c0f456a780071141f57a81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\598787a8f4c0f456a780071141f57a81\AndroidManifest.xml:20:5-44
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kailashdabhi:om-recorder:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.0.aar\d70e98270febe1baed1782df9a0430ab\AndroidManifest.xml:5:5-7:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\libphonenumber-android-8.9.14.aar\cc4e6c2b1f4596899be179d6fe547bfd\AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\libphonenumber-android-8.9.14.aar\cc4e6c2b1f4596899be179d6fe547bfd\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\MULY\app\src\main\AndroidManifest.xml
+activity#cafe.adriel.androidaudiorecorder.AudioRecorderActivity
+ADDED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-15:54
+	android:screenOrientation
+		ADDED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-49
+	android:theme
+		ADDED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [:lib] C:\Users\Asus\Desktop\MULY\lib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-82
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\d7c51c061bdfeb42073c5c4626754b77\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:6:22-73
+activity#com.amazonaws.mobile.auth.userpools.ForceChangePasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:9:10-269
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:9:231-267
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:9:91-151
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:9:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:9:152-230
+activity#com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:10:10-258
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:10:220-256
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:10:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:10:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:10:146-219
+activity#com.amazonaws.mobile.auth.userpools.SignUpActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:11:10-242
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:11:204-240
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:11:91-137
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:11:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:11:138-203
+activity#com.amazonaws.mobile.auth.userpools.MFAActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:13:10-235
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:13:197-233
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:13:91-133
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:13:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:13:134-196
+activity#com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:15:10-257
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:15:219-255
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:15:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:15:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.9.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\jetified-aws-android-sdk-auth-userpools-2.9.2.aar\0a49836d768e70fe89e6f0e8eb51d337\AndroidManifest.xml:15:146-218

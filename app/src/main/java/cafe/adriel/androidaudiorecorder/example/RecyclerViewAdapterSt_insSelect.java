@@ -1,7 +1,8 @@
 package cafe.adriel.androidaudiorecorder.example;
 
 import android.content.Intent;
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,15 +26,15 @@ public class RecyclerViewAdapterSt_insSelect extends RecyclerView.Adapter<Recycl
     }
 
 
-    public static class ExampleViewHolder extends RecyclerView.ViewHolder{
-        public ImageView mImageView;
-        public TextView mTextView1;
+     class ExampleViewHolder extends RecyclerView.ViewHolder{
+        ImageView mImageView;
+        TextView mTextView1;
 
-        public ExampleViewHolder(final View itemView, final OnItemClickListner listner) {
+        ExampleViewHolder(final View itemView, final OnItemClickListner listner) {
             super(itemView);
 
-            mImageView= (ImageView) itemView.findViewById(R.id.st_ins_imageview);//had to be casted??
-            mTextView1= (TextView) itemView.findViewById(R.id.st_ins_textview);
+            mImageView= itemView.findViewById(R.id.st_ins_imageview);//had to be casted??
+            mTextView1= itemView.findViewById(R.id.st_ins_textview);
 
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -51,7 +52,7 @@ public class RecyclerViewAdapterSt_insSelect extends RecyclerView.Adapter<Recycl
         }
     }
 
-    public RecyclerViewAdapterSt_insSelect(ArrayList<stu_selectinstrument_item> exampleList){
+    RecyclerViewAdapterSt_insSelect(ArrayList<stu_selectinstrument_item> exampleList){
         mExampleList=exampleList;
 
 
@@ -60,8 +61,7 @@ public class RecyclerViewAdapterSt_insSelect extends RecyclerView.Adapter<Recycl
     @Override
     public ExampleViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View v= LayoutInflater.from(parent.getContext()).inflate(R.layout.stu_select_instrument_item,parent,false);
-        ExampleViewHolder evh=new ExampleViewHolder(v,mListner);
-        return evh;
+        return new ExampleViewHolder(v,mListner);
     }
 
     @Override

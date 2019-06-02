@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Asus\\Desktop\\MULY\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ga\\values-ga.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-file-chooser-v1.1.10.aar\\24c0f4ce1d737bbda8316621ec4c93e1\\res\\values-ga\\values-ga.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,175,266",
+                        "endColumns": "56,62,90,91",
+                        "endOffsets": "107,170,261,353"
+                    }
+                }
+            ]
+        }
+    ]
+}

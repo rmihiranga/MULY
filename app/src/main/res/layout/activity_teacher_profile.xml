@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TeacherMain">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:title="Teacher" />
+    </com.google.android.material.appbar.AppBarLayout>
+        <ScrollView
+            android:layout_marginTop="60dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/profile_image_teacher"
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:src="@drawable/person"
+                        app:civ_border_color="#FF000000"
+                        app:civ_border_width="2dp" />
+
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+                    <LinearLayout
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:orientation="vertical">
+                        <TextView
+                            android:id="@+id/name_teacher_profile"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Teacher1"
+                            android:layout_marginTop="5dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                            android:textSize="25sp" />
+
+                        <TextView
+                            android:id="@+id/email_teacher_profile"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="teacher@gmail.com"
+                            android:textColor="#808080"
+                            android:layout_marginTop="2dp"
+                            android:layout_marginBottom="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:id="@+id/telephone_teacher_profile"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Telephone"
+                            android:textColor="#808080"
+                            android:layout_marginTop="2dp"
+                            android:layout_marginBottom="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                            android:textSize="15sp" />
+                        <TextView
+                            android:id="@+id/city_teacher_profile"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="City"
+                            android:textColor="#808080"
+                            android:layout_marginTop="2dp"
+                            android:layout_marginBottom="10dp"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                            android:textSize="15sp" />
+
+                    </LinearLayout>
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_margin="30dp"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:text="Instruments"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginBottom="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:textSize="20sp" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+
+                    <TextView
+                        android:id="@+id/instumenttypes_teacher_profile"
+                        android:layout_margin="30dp"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:text="Piano"
+                        android:layout_gravity="center"
+                        android:textColor="#808080"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginBottom="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:textSize="20sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_marginHorizontal="30dp"
+                        android:layout_width="70dp"
+                        android:layout_height="wrap_content"
+                        android:text="Rating"
+                        android:layout_marginTop="40dp"
+                        android:layout_marginBottom="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:textSize="20sp" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+
+                    <RatingBar
+                        android:id="@+id/rating_teacher_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_margin="30dp"
+                        android:rating="4"
+                        android:scaleX=".75"
+                        android:scaleY=".75"
+                        android:transformPivotX="0dp"
+                        android:transformPivotY="0dp"
+                        android:stepSize="1.0"
+                        android:numStars="5"/>
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_margin="30dp"
+                        android:layout_width="110dp"
+                        android:layout_height="wrap_content"
+                        android:text="Students"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginBottom="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:textSize="20sp" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1" />
+
+
+                    <TextView
+                        android:id="@+id/no_of_students_teacher_profile"
+                        android:layout_margin="30dp"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:text="4"
+                        android:layout_gravity="center"
+                        android:textColor="#808080"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginBottom="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:textSize="20sp" />
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    >
+
+                    <Button
+                        android:id="@+id/removebtn_teacher_profile"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="Remove"
+                        android:textColor="#FFFFFF"
+                        />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+        </ScrollView>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
