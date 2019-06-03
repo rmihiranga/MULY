@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:4:1-43
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:2:1-13:12
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:3:1-59
+application
+ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:6:1-11:15
+	android:label
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:6:14-46
+activity#cafe.adriel.androidaudiorecorder.AudioRecorderActivity
+ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:7:5-10:47
+	android:screenOrientation
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:9:9-47
+	android:name
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml:8:9-46
+uses-sdk
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\MULY\lib\src\main\AndroidManifest.xml
